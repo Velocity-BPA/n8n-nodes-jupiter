@@ -1,0 +1,28 @@
+# Source files
+credentials/
+nodes/
+index.ts
+tsconfig.json
+
+# Development
+.eslintrc.js
+.prettierrc
+.gitignore
+.github/
+
+# Tests
+test/
+coverage/
+jest.config.js
+
+# IDE
+.idea/
+.vscode/
+
+# Scripts
+scripts/
+
+# Misc
+*.log
+.DS_Store
+.env*
